@@ -1,7 +1,8 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/b6w9bCz.gif" width="100%" />
+  <img src="https://i.ibb.co/1mrvGh7/Vivek-Gautam-GitHub-Banner.png" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Vivek Bhauraj Gautam</h1>
 <h3 align="center">Full-Stack Developer | AI & GenAI Learner | C | C++ | Java | Python</h3>
