@@ -1,8 +1,9 @@
 <!-- HEADER BANNER -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Programming-With-Vivek/banner/main/vivek-banner.png" width="100%" />
+  <img src="https://i.ibb.co/8XKxWmz/vivek-gautam-banner.png" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Vivek Bhauraj Gautam</h1>
 <h3 align="center">Full-Stack Developer | AI & GenAI Learner | C | C++ | Java | Python</h3>
