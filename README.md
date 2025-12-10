@@ -1,129 +1,96 @@
-# Hi there 👋 I'm Vivek Bhauraj Gautam
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=900\&color=00A8E8\&width=760\&lines=Hi+there!+I'm+Vivek+Bhauraj+Gautam;Full-Stack+Developer;Open+to+collaborations;Always+Learning+New+Tech)](https://git.io/typing-svg)
-
----
-
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://github.com/vivekbgautam.png" alt="avatar" width="120" height="120" style="border-radius:50%" />
+  <img src="https://i.imgur.com/b6w9bCz.gif" width="100%" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Vivek Bhauraj Gautam</h1>
+<h3 align="center">Full-Stack Developer | AI & GenAI Learner | C | C++ | Java | Python</h3>
+
 <p align="center">
-  <a href="mailto:vivekbgautam@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vivekbgautam%40gmail.com-blue?style=for-the-badge"/></a>
-  <a href="https://github.com/vivekbgautam"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@vivekbgautam-181717?style=for-the-badge&logo=github"/></a>
+  <img src="https://komarev.com/ghpvc/?username=vivekbgautam&label=Profile%20views&color=blue&style=flat" alt="profile views" />
 </p>
-
----
-
-## 🎨 Personal Branding Kit
-
-* **Primary color:** `#00A8E8`
-* **Accent color:** `#FF7A59`
-* **Dark background:** `#0F172A`
-* **Font:** Fira Code / Inter
-* **Logo idea:** **VBG** monogram in cyan + coral theme
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Working on full-stack development
-* 🌱 Learning **React, Node.js, System Design**
-* 👯 Open to collaboration
-* 📫 Email: **[vivekbgautam@gmail.com](mailto:vivekbgautam@gmail.com)**
+- 🌱 Currently learning **AI, GenAI, LLMs**, and Full-Stack Development  
+- 💡 Interested in **Software Development, Machine Learning, and Backend Systems**  
+- 💬 Ask me about **C, C++, Java, Python, Git, GitHub**  
+- 📫 Email: **vivekbgautam@gmail.com**  
+- ⚡ Fun fact: *I believe code + curiosity = growth!*  
 
 ---
 
-## 🧰 Tech Stack
+## 🌐 Connect with Me
 
-### **Languages & Frameworks**
-
-`JavaScript · TypeScript · React · Node.js · Express · Java`
-
-### **Tools & Platforms**
-
-`Git · GitHub · Docker · Linux · MongoDB · PostgreSQL`
-
-**Badges:**
-
-```md
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-informational?style=for-the-badge)
-![React](https://img.shields.io/badge/React-17+-informational?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-16+-informational?style=for-the-badge)
-```
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vivekbgautam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📈 GitHub Stats (Animated)
+## 🛠️ Languages & Tools
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekbgautam\&show_icons=true\&theme=radical)
+### **Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbgautam\&layout=compact\&theme=radical)
+### **Development Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
----
-
-## ✨ Featured Project (GIF Demo)
-
-### **Project Example — Awesome App**
-
-Small description of your project.
-
-[![Demo GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)](https://github.com/vivekbgautam)
-
-**How to add your own GIF:**
-
-1. Record screen
-2. Convert to GIF
-3. Upload to `assets/`
-4. Replace link
+### **Web & Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,mysql" />
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Stats
 
-```md
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=vivekbgautam&theme=react-dark&area=true)
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekbgautam&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekbgautam&theme=tokyonight" height="170" />
+</p>
 
----
-
-## 🔄 Auto-Update README (GitHub Actions)
-
-Create: `.github/workflows/update-readme.yml`
-
-```yaml
-name: Update README
-on:
-  schedule:
-    - cron: '0 6 * * *'
-  push:
-    branches:
-      - main
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Update README Timestamp
-        run: echo "<!-- updated: $(date -u) -->" > last-update.txt
-      - name: Commit changes
-        run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'actions@github.com'
-          git add last-update.txt
-          git commit -m 'update timestamp' || echo "no changes"
-          git push
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbgautam&layout=compact&theme=tokyonight" height="170" />
+</p>
 
 ---
 
-## 📬 Contact
+## 🏆 GitHub Achievements
 
-* **Email:** `vivekbgautam@gmail.com`
-* **GitHub:** [https://github.com/vivekbgautam](https://github.com/vivekbgautam)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vivekbgautam&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## ❤️ Made with Love
+## 🔥 Contribution Graph
 
-**By Vivek Bhauraj Gautam**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbgautam&theme=tokyo-night" />
+</p>
+
+---
+
+## 📌 Featured Repositories
+
+> You can pin your best repos directly from your GitHub profile.
+
+---
+
+## 💬 Quote of the Day
+
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+
+---
+
+<p align="center">
+  ⭐ **Thanks for visiting! Don't forget to star my repositories!** ⭐
+</p>
