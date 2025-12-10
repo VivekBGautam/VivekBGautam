@@ -1,5 +1,5 @@
 <!-- ===================================================== -->
-<!-- 🚀 VIVEK BHAURAJ GAUTAM — BRANDING KIT + GITHUB README -->
+<!-- 🚀 VIVEK BHAURAJ GAUTAM — GITHUB PROFILE README        -->
 <!-- ===================================================== -->
 
 <!-- HEADER BANNER -->
@@ -16,19 +16,17 @@
 
 ---
 
-# 🎨 **Branding Kit (Developer Identity)**
+# 🎨 Branding Kit  
 
-## ✅ **1. Logo (Use in all projects)**
-[VG] — Vivek Gautam
-Modern | Clean | Developer-Centric
-
-yaml
-Copy code
-*(I can generate a **real graphical logo** anytime you want.)*
+## 🎯 Identity
+**Name:** Vivek Bhauraj Gautam  
+**Email:** **vivekbgautam@gmail.com**  
+**Tagline:** *Full-Stack Developer • AI & GenAI Learner*  
 
 ---
 
-## ✅ **2. Color Palette (Use Across Projects / Portfolio / GitHub)**
+## 🎨 Color Palette  
+
 | Purpose | Color | Hex |
 |--------|--------|-------|
 | Primary | ![#0F6DB6](https://via.placeholder.com/15/0F6DB6/000000?text=+) | `#0F6DB6` |
@@ -39,15 +37,15 @@ Copy code
 
 ---
 
-## ✅ **3. Typography (Use for Websites / Portfolio / Posters)**  
-**Primary Font:** *Poppins (Bold / Medium)*  
-**Secondary Font:** *Roboto (Regular)*  
-**Monospace (Code):** *JetBrains Mono*  
+## ✍ Typography
+- **Primary:** Poppins  
+- **Secondary:** Roboto  
+- **Code:** JetBrains Mono  
 
 ---
 
-## ✅ **4. Buttons / Badges (Brand-Colored)**  
-<p align="left">
+## 🏷 Custom Badges  
+<p>
   <img src="https://img.shields.io/badge/Vivek%20Gautam-0F6DB6?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20Learner-1B98F5?style=for-the-badge&logo=google"/>
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-0A3D62?style=for-the-badge"/>
@@ -55,9 +53,7 @@ Copy code
 
 ---
 
-## 🚀 **About Me**
-
-I'm a passionate developer focused on building **clean, scalable, backend-driven and AI-enhanced applications**.
+# 🚀 About Me  
 
 - 🌱 Learning: **AI, GenAI, LLMs, Full-Stack Development**  
 - 💻 Skills: **C, C++, Java, Python, Node.js, Express, MySQL**  
@@ -67,9 +63,9 @@ I'm a passionate developer focused on building **clean, scalable, backend-driven
 
 ---
 
-# 🌐 Connect with Me  
+# 🌐 Connect With Me  
 
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/vivekbgautam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0F6DB6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -83,21 +79,21 @@ I'm a passionate developer focused on building **clean, scalable, backend-driven
 
 ---
 
-# 🛠️ Skills & Technologies  
+# 🛠️ Skills  
 
-### **Programming Languages**
+### 💻 Programming  
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js">
 </p>
 
-### **Frontend & Backend**
+### 🌐 Web & Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,mysql">
 </p>
 
-### **Tools**
+### 🧰 Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma">
 </p>
 
 ---
@@ -116,29 +112,31 @@ I'm a passionate developer focused on building **clean, scalable, backend-driven
 ---
 
 # 🏆 GitHub Achievements  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivekbgautam&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vivekbgautam&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
 # 🔥 Contribution Graph  
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbgautam&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbgautam&theme=tokyo-night"/>
 </p>
 
 ---
 
 # 📌 Featured Repositories  
-> Pin your top C, C++, Java, Python, AI, and Full-Stack projects for better visibility.
+> Pin your best **C, C++, Java, Python, AI, Full-Stack** projects here.
 
 ---
 
 # 💬 Quote of the Day  
-<p align="center"><i>“First, solve the problem. Then, write the code.”</i></p>
+<p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
 
 ---
 
 <p align="center">
-  ⭐ <strong>Thanks for visiting! Don't forget to star my repositories!</strong> ⭐
+  ⭐ <strong>If you like my work, consider giving a star!</strong> ⭐
 </p>
