@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/b6w9bCz.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/itsvg11/animated-readme/master/assets/banner.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vivek Bhauraj Gautam</h1>
@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **AI, GenAI, LLMs**, and Full-Stack Development  
-- 💡 Interested in **Software Development, Machine Learning, and Backend Systems**  
+- 💡 Interested in **Software Development, Machine Learning, Backend Systems**  
 - 💬 Ask me about **C, C++, Java, Python, Git, GitHub**  
 - 📫 Email: **vivekbgautam@gmail.com**  
 - ⚡ Fun fact: *I believe code + curiosity = growth!*  
@@ -31,21 +31,32 @@
 
 ---
 
-## 🛠️ Languages & Tools
+# 🛠️ Animated Languages & Tools
 
-### **Programming Languages**
+### 🚀 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/c.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/cpp.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/java.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/python.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/javascript.gif" />
 </p>
 
-### **Development Tools**
+### 🧰 Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/git.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/github.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/vscode.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/linux.gif" />
 </p>
 
-### **Web & Backend**
+### 🌐 Web & Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,mysql" />
+  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/html.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/css.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/nodejs.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/express.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/mysql.gif" />
 </p>
 
 ---
@@ -92,5 +103,5 @@
 ---
 
 <p align="center">
-  ⭐ **Thanks for visiting! Don't forget to star my repositories!** ⭐
+  ⭐ <b>Thanks for visiting! Don't forget to star my repositories!</b> ⭐
 </p>
