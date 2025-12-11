@@ -1,91 +1,81 @@
-<!-- HEADER BANNER -->
-<img src="https://raw.githubusercontent.com/itsvg11/animated-readme/master/assets/banner.gif" width="100%" />
+<!-- PROFILE HEADER -->
+<h1 align="left">🔥 Vivek Bhauraj Gautam</h1>
+<h3 align="left">🚀 Passionate Developer | 💻 C • C++ • Java • Web | ⚡ Tech Explorer</h3>
 
-# Hi 👋, I'm Vivek Bhauraj Gautam  
-### Full-Stack Developer | AI & GenAI Learner | C | C++ | Java | Python  
-
-<img src="https://komarev.com/ghpvc/?username=vivekbgautam&label=Profile%20views&color=blue&style=flat" />
+<br>
 
 ---
 
-## 🚀 About Me
+# 🔥 Heavy Animated Neon Icons (Tech Stack)
 
-- 🌱 Currently learning **AI, GenAI, LLMs**, and Full-Stack Development  
-- 💡 Interested in **Software Development, Machine Learning, Backend Systems**  
-- 💬 Ask me about **C, C++, Java, Python, Git, GitHub**  
-- 📫 Email: **vivekbgautam@gmail.com**  
-- ⚡ Fun fact: *I believe code + curiosity = growth!*  
+<p align="left">
 
----
+<!-- C -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2MwaGpqZHF0ZzBsdmZqYjJwa3Jtc3V0ZTNsa2htN3l4aHNlOXZ3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="70px" height="70px" />
 
-## 🌐 Connect with Me
+<!-- C++ -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVjejZmeTc2c2pobGlicnQ2cXNmejNyMmgzNDZocGxkYzdobWc0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="70px" height="70px" />
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vivekbgautam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- Java -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXptdjMxbmQ1ZmJOcW1tY3J1OGFtdHBmNnR6bzZlaTYxZmd2cXkwOSZlcD12MV9naWZzX3NlYXJjaCZjdT1n/qgQUggAC3Pfv687qPC/giphy.gif" width="70px" height="70px" />
 
----
+<!-- HTML -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxhMHFjNzB0a21xaXZ1cmI3bm1sa2R4bTRhb2M5dDNob3R2aXBpZiZlcD12MV9naWZzX3NlYXJjaCZjdT1n/ln7z2eWriiQAllfVcn/giphy.gif" width="70px" height="70px" />
 
-# 🛠️ Animated Languages & Tools
+<!-- CSS -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjMwY3R5MnZxOHdzdnR6YmhrbWo5ZjEydWdhaHYxOGZlNjNwcTN4eiZlcD12MV9naWZzX3NlYXJjaCZjdT1n/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70px" height="70px" />
 
-### 🚀 Programming Languages
-<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/c.gif" />
-<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/cpp.gif" />
-<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/java.gif" />
-<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/python.gif" />
-<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/javascript.gif" />
+<!-- JavaScript -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ4bm4ycTR6MzR3Yjh2YXZwOGI5YXE3eG5zbG5pODNtZnAwNmt2NSZlcD12MV9naWZzX3NlYXJjaCZjdT1n/XAxylRMCdpbEWUAvr8/giphy.gif" width="70px" height="70px" />
 
-### 🧰 Development Tools
-<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/git.gif" />
-<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/github.gif" />
-<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/vscode.gif" />
-<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/linux.gif" />
-
-### 🌐 Web & Backend Development
-<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/html.gif" />
-<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/css.gif" />
-<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/nodejs.gif" />
-<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/express.gif" />
-<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/mysql.gif" />
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats (Working)
 
-<img src="https://github-readme-stats.vercel.app/api?username=vivekbgautam&show_icons=true&theme=tokyonight" height="170" />
-<br />
-<img src="https://streak-stats.demolab.com?user=vivekbgautam&theme=tokyonight" height="170" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbgautam&layout=compact&theme=tokyonight" height="170" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=VivekBGautam&show_icons=true&theme=tokyonight" height="180px" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="left">
+<img src="https://streak-stats.demolab.com?user=VivekBGautam&theme=tokyonight" height="180px"/>
+</p>
 
 ---
 
 # 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=vivekbgautam&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=VivekBGautam&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-# 🔥 Contribution Graph
+# 🌍 3D Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbgautam&theme=tokyo-night&hide_border=true" />
-
----
-
-# 🧊 3D Contribution Chart
-
-<img src="https://raw.githubusercontent.com/VivekBGautam/VivekBGautam/main/3D_configuration.png" width="100%" />
+<p align="left">
+<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/assets/3d/github_contribution_3d.svg" width="100%">
+</p>
 
 ---
 
-# 📌 Featured Repositories
-> You can pin your best repos directly from your GitHub profile.
+# 🔗 Connect With Me  
+📧 **Email:** vivekbgautam@gmail.com  
+🌐 **GitHub:** https://github.com/VivekBGautam  
 
 ---
 
-# 💬 Quote of the Day
-
-> *"Code is like humor. When you have to explain it, it's bad."*
+# 🚀 About Me  
+- 🔥 I love coding & building amazing things  
+- 🎯 Always learning and improving  
+- 💡 Exploring new technologies daily  
 
 ---
 
-⭐ **Thanks for visiting! Don’t forget to star my repositories!** ⭐
+# ⚡ Powered by Heavy Animated Icons  
+✨ **Your profile now looks premium, flashy, and futuristic!**  
