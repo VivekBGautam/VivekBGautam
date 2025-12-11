@@ -61,14 +61,14 @@
 
 ---
 
-## 📊 GitHub Stats (UPDATED & WORKING)
+## 📊 GitHub Stats (Now Fully Working)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vivekbgautam&show_icons=true&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=vivekbgautam&theme=tokyonight" height="170" />
+  <img src="https://streak-stats.demolab.com?user=vivekbgautam&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements (Stable Version)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vivekbgautam&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -85,10 +85,10 @@
 
 ---
 
-## 🔥 Contribution Graph (UPDATED & WORKING)
+## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbgautam&theme=tokyo-night&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbgautam&theme=tokyo-night" />
 </p>
 
 ---
