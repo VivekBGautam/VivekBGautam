@@ -90,6 +90,15 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbgautam&theme=tokyo-night" />
 </p>
+---
+
+## 🧊 3D Contribution Chart
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/docs/demo/profile-night-rainbow.svg" alt="3D contribution graph" />
+</p>
+
+---
 
 ---
 
