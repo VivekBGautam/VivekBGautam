@@ -35,40 +35,40 @@
 
 ### 🚀 Programming Languages
 <p>
-  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/c.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/cpp.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/java.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/python.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/javascript.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/gururajrkadyan/Animated-Icons/main/c.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/gururajrkadyan/Animated-Icons/main/cpp.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/gururajrkadyan/Animated-Icons/main/java.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/gururajrkadyan/Animated-Icons/main/python.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/gururajrkadyan/Animated-Icons/main/js.gif" />
 </p>
 
 ### 🧰 Development Tools
 <p>
-  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/git.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/github.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/vscode.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/linux.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/gururajrkadyan/Animated-Icons/main/git.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/gururajrkadyan/Animated-Icons/main/github.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/gururajrkadyan/Animated-Icons/main/vscode.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/gururajrkadyan/Animated-Icons/main/linux.gif" />
 </p>
 
 ### 🌐 Web & Backend Development
 <p>
-  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/html.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/css.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/nodejs.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/express.gif" />
-  <img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/mysql.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/gururajrkadyan/Animated-Icons/main/html.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/gururajrkadyan/Animated-Icons/main/css.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/gururajrkadyan/Animated-Icons/main/node.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/gururajrkadyan/Animated-Icons/main/express.gif" />
+  <img height="60" src="https://raw.githubusercontent.com/gururajrkadyan/Animated-Icons/main/mysql.gif" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Now Fully Working)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekbgautam&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekbgautam&show_icons=true&theme=tokyonight&rank_icon=github" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vivekbgautam&theme=tokyonight" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=vivekbgautam&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@
 
 ---
 
-## 🏆 GitHub Achievements (Stable Version)
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vivekbgautam&theme=tokyonight&no-frame=true&row=1&column=6" />
