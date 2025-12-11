@@ -95,8 +95,9 @@
 ## 🧊 3D Contribution Chart
 
 <p align="center">
-  <img src=https://github.com/VivekBGautam/VivekBGautam/blob/main/3D_configuration.png/>
+  <img src="https://raw.githubusercontent.com/VivekBGautam/VivekBGautam/main/3D_configuration.png" width="100%" />
 </p>
+
 
 ---
 
