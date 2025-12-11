@@ -1,81 +1,91 @@
 <!-- HEADER BANNER -->
 <img src="https://raw.githubusercontent.com/itsvg11/animated-readme/master/assets/banner.gif" width="100%" />
 
-# Hi 👋, I'm Vivek Bhauraj Gautam
-### Full-Stack Developer | AI & GenAI Learner | C | C++ | Java | Python
+# Hi 👋, I'm Vivek Bhauraj Gautam  
+### Full-Stack Developer | AI & GenAI Learner | C | C++ | Java | Python  
 
-<img src="https://komarev.com/ghpvc/?username=vivekbgautam&label=Profile%20Views&color=blueviolet&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=vivekbgautam&label=Profile%20views&color=blue&style=flat" />
 
 ---
 
 ## 🚀 About Me
 
 - 🌱 Currently learning **AI, GenAI, LLMs**, and Full-Stack Development  
-- 💡 Passionate about **Software Development, Backend Engineering, ML**  
+- 💡 Interested in **Software Development, Machine Learning, Backend Systems**  
 - 💬 Ask me about **C, C++, Java, Python, Git, GitHub**  
 - 📫 Email: **vivekbgautam@gmail.com**  
-- ⚡ Fun fact: *Curiosity turns beginners into experts!*  
+- ⚡ Fun fact: *I believe code + curiosity = growth!*  
 
 ---
 
 ## 🌐 Connect with Me
 
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="mailto:vivekbgautam@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vivekbgautam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
 
-# 🛠️ Languages & Tools
+# 🛠️ Animated Languages & Tools
 
 ### 🚀 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" height="50"/>
+<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/c.gif" />
+<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/cpp.gif" />
+<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/java.gif" />
+<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/python.gif" />
+<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/javascript.gif" />
 
 ### 🧰 Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="50"/>
+<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/git.gif" />
+<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/github.gif" />
+<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/vscode.gif" />
+<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/linux.gif" />
 
 ### 🌐 Web & Backend Development
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,express,mysql" height="50"/>
+<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/html.gif" />
+<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/css.gif" />
+<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/nodejs.gif" />
+<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/express.gif" />
+<img height="60" src="https://raw.githubusercontent.com/abrahamizydorczyk/animated-icons/main/mysql.gif" />
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vivekbgautam&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=vivekbgautam&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbgautam&layout=compact&theme=tokyonight"/>
-
----
-
-## 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=vivekbgautam&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://github-readme-stats.vercel.app/api?username=vivekbgautam&show_icons=true&theme=tokyonight" height="170" />
+<br />
+<img src="https://streak-stats.demolab.com?user=vivekbgautam&theme=tokyonight" height="170" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbgautam&layout=compact&theme=tokyonight" height="170" />
 
 ---
 
-## 🔥 Contribution Graph
+# 🏆 GitHub Achievements
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbgautam&theme=tokyo-night" />
-
----
-
-## 🧊 3D Contribution Chart
-
-<img src="https://raw.githubusercontent.com/VivekBGautam/VivekBGautam/main/3D_configuration.png" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=vivekbgautam&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
 
 ---
 
-## 📌 Featured Repositories
+# 🔥 Contribution Graph
 
-> Pin your best repositories from your GitHub profile settings.
-
----
-
-## 💬 Quote of the Day
-
-*"Code is like humor. When you have to explain it, it’s bad."*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbgautam&theme=tokyo-night&hide_border=true" />
 
 ---
 
-⭐ **Thanks for visiting! Don't forget to star my repositories!** ⭐
+# 🧊 3D Contribution Chart
+
+<img src="https://raw.githubusercontent.com/VivekBGautam/VivekBGautam/main/3D_configuration.png" width="100%" />
+
+---
+
+# 📌 Featured Repositories
+> You can pin your best repos directly from your GitHub profile.
+
+---
+
+# 💬 Quote of the Day
+
+> *"Code is like humor. When you have to explain it, it's bad."*
+
+---
+
+⭐ **Thanks for visiting! Don’t forget to star my repositories!** ⭐
