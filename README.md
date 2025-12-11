@@ -95,7 +95,7 @@
 ## 🧊 3D Contribution Chart
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/docs/demo/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img src=https://github.com/VivekBGautam/VivekBGautam/blob/main/3D_configuration.png/>
 </p>
 
 ---
