@@ -1,4 +1,4 @@
-# 🚀🌌 **ULTRA PREMIUM – WORLD CLASS GITHUB PROFILE README**
+# 🚀🌌 **HI**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=39FF14&center=true&vCenter=true&width=800&lines=🔥+Vivek+Bhauraj+Gautam;Full+Stack+Developer+%7C+Engineer+%7C+Creator;Welcome+to+My+Ultra+Premium+GitHub+Profile" />
