@@ -61,18 +61,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (UPDATED & WORKING)
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vivekbgautam&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekbgautam&show_icons=true&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vivekbgautam&theme=tokyonight" height="170" />
+  <img src="https://streak-stats.vercel.app/?user=vivekbgautam&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vivekbgautam&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbgautam&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
@@ -85,11 +85,12 @@
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Contribution Graph (UPDATED & WORKING)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbgautam&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbgautam&theme=tokyo-night&area=true" />
 </p>
+
 ---
 
 ## 🧊 3D Contribution Chart
@@ -97,9 +98,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/VivekBGautam/VivekBGautam/main/3D_configuration.png" width="100%" />
 </p>
-
-
----
 
 ---
 
