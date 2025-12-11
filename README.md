@@ -64,17 +64,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vivekbgautam&show_icons=true&theme=tokyonight" height="170" />
+</p>
 
-  <!-- GitHub Streak -->
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=vivekbgautam&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vivekbgautam&layout=compact&theme=tokyonight" height="170" />
 </p>
+
+
 
 ---
 
@@ -83,6 +84,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vivekbgautam&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
 
 ---
 
