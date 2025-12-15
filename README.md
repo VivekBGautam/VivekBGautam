@@ -76,6 +76,12 @@ Git • GitHub • Linux • VS Code • Postman • Figma
   <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/output/github-contribution-grid-snake.svg" />
 </p>
 
+# 📈 **Contribution Activity**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbgautam&theme=react-dark&hide_border=true" />
+</p>
+
+
 ---
 
 # 🌟 **Vivek’s Portfolio Highlights**
