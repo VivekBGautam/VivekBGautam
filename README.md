@@ -71,11 +71,6 @@ Git • GitHub • Linux • VS Code • Postman • Figma
 
 ---
 
-# 🧬 **3D Contribution Graph**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/output/github-contribution-grid-snake.svg" />
-</p>
-
 # 📈 **Contribution Activity**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbgautam&theme=react-dark&hide_border=true" />
