@@ -38,7 +38,7 @@ I build **high-performance applications**, create **efficient logic**, and craft
 # 🚀 **Tech Stack**
 
 ### 🖥️ Languages
-
+---
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
@@ -47,13 +47,9 @@ I build **high-performance applications**, create **efficient logic**, and craft
   <img src="https://skillicons.dev/icons?i=javascript" />
 </p>
 ```
-### 🧠 **Core Expertise**
-```
-DSA • System Programming • Memory Management • Compiler Logic
-Backend Engineering • Problem Solving • Optimization
 ```
 ### 🧠 Core Expertise
-
+---
 <p align="left">
   🧩 <strong>DSA</strong><br>
   ⚙️ <strong>System Programming</strong><br>
@@ -64,12 +60,8 @@ Backend Engineering • Problem Solving • Optimization
   📈 <strong>Optimization</strong>
 </p>
 
-### ⚒️ **Tools**
-```
-Git • GitHub • Linux • VS Code • Postman • Figma
-```
 ### ⚒️ Tools & Platforms
-```
+---
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
@@ -78,7 +70,8 @@ Git • GitHub • Linux • VS Code • Postman • Figma
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
-```
+---
+
 ---
 
 # 🌌 **GitHub Analytics**
