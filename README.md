@@ -100,10 +100,6 @@ I build **high-performance applications**, create **efficient logic**, and craft
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbgautam&layout=compact&theme=highcontrast&hide_border=true" height="150px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivekbgautam&theme=dracula&no-frame=true&row=1&column=7" />
-</p>
-
 ---
 
 ## 📈 **Contribution Activity**
