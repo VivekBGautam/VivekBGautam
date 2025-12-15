@@ -19,7 +19,7 @@ I build **high-performance applications**, create **efficient logic**, and craft
 
 ---
 
-# ⚡ **Badges**
+## ⚡ **Badges**
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-Ultra%20Premium-39FF14?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge"/>
@@ -28,17 +28,16 @@ I build **high-performance applications**, create **efficient logic**, and craft
 
 ---
 
-# 🔥 **3D Animated Header**
+## 🔥 **3D Animated Header**
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigo-brito/rodrigo-brito/master/code.gif" width="450px" />
 </p>
 
 ---
 
-# 🚀 **Tech Stack**
+## 🚀 **Tech Stack**
 
 ### 🖥️ Languages
----
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
@@ -46,10 +45,12 @@ I build **high-performance applications**, create **efficient logic**, and craft
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=javascript" />
 </p>
-```
-```
-### 🧠 Core Expertise
+
+<br/>
+
 ---
+
+### 🧠 **Core Expertise**
 <p align="left">
   🧩 <strong>DSA</strong><br>
   ⚙️ <strong>System Programming</strong><br>
@@ -60,8 +61,9 @@ I build **high-performance applications**, create **efficient logic**, and craft
   📈 <strong>Optimization</strong>
 </p>
 
-### ⚒️ Tools & Platforms
 ---
+
+### ⚒️ **Tools & Platforms**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
@@ -70,11 +72,25 @@ I build **high-performance applications**, create **efficient logic**, and craft
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
----
 
 ---
 
-# 🌌 **GitHub Analytics**
+### 🔧 **Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+---
+
+### 🗄️ **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+---
+
+## 🌌 **GitHub Analytics**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vivekbgautam&show_icons=true&theme=highcontrast&hide_border=true&rank_icon=github" height="170px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vivekbgautam&theme=highcontrast&hide_border=true" height="170px"/>
@@ -90,48 +106,49 @@ I build **high-performance applications**, create **efficient logic**, and craft
 
 ---
 
-# 📈 **Contribution Activity**
+## 📈 **Contribution Activity**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbgautam&theme=react-dark&hide_border=true" />
 </p>
 
-
 ---
 
-# 🌟 **Vivek’s Portfolio Highlights**
-```
+## 🌟 **Vivek’s Portfolio Highlights**
 🔹 AI Assisted CLI Tool (C++)
 🔹 Intelligent Memory Tracker (C)
 🔹 Java Backend Engine (REST)
 🔹 Full Stack Ecommerce System
 🔹 DSA Visualizer – Next Level Version
-```
+
+yaml
+Copy code
 
 ---
 
-# 🎨 **Branding Kit**
-```
+## 🎨 **Branding Kit**
 Brand Name: Vivek Gautam
 Tagline: Code. Create. Dominate.
 Color Palette:
-  Neon Green (#39FF14)
-  Black (#000000)
-  Royal Purple (#8000FF)
+Neon Green (#39FF14)
+Black (#000000)
+Royal Purple (#8000FF)
 Style: Futuristic • Neon • Tech Elite
-```
+
+yaml
+Copy code
 
 ---
 
-# 🎯 **Ultra Premium Goals 2025**
+## 🎯 **Ultra Premium Goals 2025**
 - Become **one of the strongest developers on GitHub**
 - Build **20+ Production-Ready Projects**
 - Master **Advanced System Design**
 - Contribute to **Major Open-Source Repos**
-- Crack **FAANG/Top MNC Interviews**
+- Crack **FAANG / Top MNC Interviews**
 
 ---
 
-# 🤝 **Let’s Connect**
+## 🤝 **Let’s Connect**
 📧 Email → **vivekbgautam@gmail.com**  
 🐙 GitHub → **github.com/vivekbgautam**
 
