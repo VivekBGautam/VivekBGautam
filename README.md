@@ -52,12 +52,24 @@ I build **high-performance applications**, create **efficient logic**, and craft
 DSA • System Programming • Memory Management • Compiler Logic
 Backend Engineering • Problem Solving • Optimization
 ```
+### 🧠 Core Expertise
+
+<p align="left">
+  🧩 <strong>DSA</strong><br>
+  ⚙️ <strong>System Programming</strong><br>
+  🧠 <strong>Memory Management</strong><br>
+  🧪 <strong>Compiler Logic</strong><br>
+  🖥️ <strong>Backend Engineering</strong><br>
+  🚀 <strong>Problem Solving</strong><br>
+  📈 <strong>Optimization</strong>
+</p>
 
 ### ⚒️ **Tools**
 ```
 Git • GitHub • Linux • VS Code • Postman • Figma
 ```
 ### ⚒️ Tools & Platforms
+```
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
@@ -66,7 +78,7 @@ Git • GitHub • Linux • VS Code • Postman • Figma
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
-
+```
 ---
 
 # 🌌 **GitHub Analytics**
