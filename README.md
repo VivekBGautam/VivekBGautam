@@ -37,19 +37,16 @@ I build **high-performance applications**, create **efficient logic**, and craft
 
 # 🚀 **Tech Stack**
 
-### 🖥️ **Languages**
-```
-C • C++ • Java • Python • JavaScript
-```
 ### 🖥️ Languages
-<p align="center">
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=javascript" />
 </p>
-
+```
 ### 🧠 **Core Expertise**
 ```
 DSA • System Programming • Memory Management • Compiler Logic
@@ -60,6 +57,15 @@ Backend Engineering • Problem Solving • Optimization
 ```
 Git • GitHub • Linux • VS Code • Postman • Figma
 ```
+### ⚒️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
 ---
 
