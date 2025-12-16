@@ -5,6 +5,21 @@
 </p>
 
 <p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=9B5DE5&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Vivek+Bhauraj+Gautam;Full+Stack+Developer+%7C+Engineer+%7C+Creator;Welcome+to+My+GitHub+Profile"
+  />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00E5FF&center=true&vCenter=true&lines=Hi%2C+I%27m+Vivek+Bhauraj+Gautam" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=9B5DE5&center=true&vCenter=true&lines=Full+Stack+Developer+%7C+Engineer+%7C+Creator" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF6F61&center=true&vCenter=true&lines=Welcome+to+My+GitHub+Profile" />
+</p>
+
+
+<p align="center">
   <img src="https://i.ibb.co/8c6bWT3/animated-banner.gif" width="100%" />
 </p>
 
