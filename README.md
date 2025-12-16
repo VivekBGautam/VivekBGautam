@@ -109,15 +109,6 @@ I build **high-performance applications**, create **efficient logic**, and craft
 
 ---
 
-## 🌟 **Vivek’s Portfolio Highlights**
-🔹 AI Assisted CLI Tool (C++)
-🔹 Intelligent Memory Tracker (C)
-🔹 Java Backend Engine (REST)
-🔹 Full Stack Ecommerce System
-🔹 DSA Visualizer – Next Level Version
-
----
-
 ## 🤝 **Let’s Connect**
 📧 Email → **vivekbgautam@gmail.com**  
 🐙 GitHub → **github.com/vivekbgautam**
