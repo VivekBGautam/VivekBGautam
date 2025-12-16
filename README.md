@@ -1,23 +1,8 @@
 # 🚀🌌 **Hi I Am Vivek Bhauraj Gautam**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=39FF14&center=true&vCenter=true&width=800&lines=🔥+Full+Stack+Developer+%7C+Engineer+%7C+Creator;Welcome+to+My+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=9B5DE5&center=true&vCenter=true&width=1000&lines=🔥+Full+Stack+Developer+%7C+Engineer+%7C+Creator;Welcome+to+My+GitHub+Profile" />
 </p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=9B5DE5&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Vivek+Bhauraj+Gautam;Full+Stack+Developer+%7C+Engineer+%7C+Creator;Welcome+to+My+GitHub+Profile"
-  />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00E5FF&center=true&vCenter=true&lines=Hi%2C+I%27m+Vivek+Bhauraj+Gautam" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=9B5DE5&center=true&vCenter=true&lines=Full+Stack+Developer+%7C+Engineer+%7C+Creator" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF6F61&center=true&vCenter=true&lines=Welcome+to+My+GitHub+Profile" />
-</p>
-
 
 <p align="center">
   <img src="https://i.ibb.co/8c6bWT3/animated-banner.gif" width="100%" />
@@ -43,13 +28,6 @@ I build **high-performance applications**, create **efficient logic**, and craft
 
 ---
 
-## 🔥 **3D Animated Header**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigo-brito/rodrigo-brito/master/code.gif" width="450px" />
-</p>
-
----
-
 ## 🚀 **Tech Stack**
 
 ### 🖥️ Languages
@@ -60,7 +38,6 @@ I build **high-performance applications**, create **efficient logic**, and craft
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=javascript" />
 </p>
-
 <br/>
 
 ---
