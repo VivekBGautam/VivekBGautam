@@ -116,32 +116,6 @@ I build **high-performance applications**, create **efficient logic**, and craft
 🔹 Full Stack Ecommerce System
 🔹 DSA Visualizer – Next Level Version
 
-yaml
-Copy code
-
----
-
-## 🎨 **Branding Kit**
-Brand Name: Vivek Gautam
-Tagline: Code. Create. Dominate.
-Color Palette:
-Neon Green (#39FF14)
-Black (#000000)
-Royal Purple (#8000FF)
-Style: Futuristic • Neon • Tech Elite
-
-yaml
-Copy code
-
----
-
-## 🎯 **Ultra Premium Goals 2025**
-- Become **one of the strongest developers on GitHub**
-- Build **20+ Production-Ready Projects**
-- Master **Advanced System Design**
-- Contribute to **Major Open-Source Repos**
-- Crack **FAANG / Top MNC Interviews**
-
 ---
 
 ## 🤝 **Let’s Connect**
