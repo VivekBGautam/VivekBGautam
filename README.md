@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=9B5DE5&center=true&vCenter=true&width=1000&lines=🔥+Full+Stack+Developer+%7C+Engineer+%7C+Creator;Welcome+to+My+GitHub+Profile" />
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="https://i.ibb.co/8c6bWT3/animated-banner.gif" width="100%" />
 </p>
 
