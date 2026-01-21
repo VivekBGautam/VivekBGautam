@@ -15,7 +15,7 @@
 I build **high-performance applications**, create **efficient logic**, and craft **beautiful engineering experiences**.
 
 📧 Email → **vivekbgautam@gmail.com**  
-🐙 GitHub → **github.com/vivekbgautam**
+🐙 GitHub → **http://github.com/vivekbgautam**
 
 ---
 
