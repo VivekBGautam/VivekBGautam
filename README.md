@@ -103,7 +103,7 @@ I build **high-performance applications**, create **efficient logic**, and craft
 
 ## 🤝 **Let’s Connect**
 📧 Email → **vivekbgautam@gmail.com**  
-🐙 GitHub → **github.com/vivekbgautam**
+🐙 GitHub → **http://github.com/vivekbgautam**
 
 ---
 
