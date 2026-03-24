@@ -1,7 +1,7 @@
 # 🚀🌌 **Hi I Am Vivek Bhauraj Gautam**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=9B5DE5&center=true&vCenter=true&width=1000&lines=🔥+Software+Developer+%7C+System+Programmer+%7C+Creator;C%2FC%2B%2B+%7C+Java+%7C+Python+%7C+AI+Enthusiast;Welcome+to+My+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=9B5DE5&center=true&vCenter=true&width=1000&lines=🔥+Software+Developer+%7C+System+Programmer+%7C+Creator;C%2FC%2B%2B+%7C+Java+%7C+Python+%7C+AI+Enthusiast;Building+Systems+%7C+Automation+%7C+AI+Projects" />
 </p>
 
 <p align="center"> 
@@ -39,13 +39,33 @@ I build **high-performance systems**, develop **automation tools**, and explore 
 
 ---
 
-## ⚡ **Badges**
+## 👀 **Profile Views**
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer-Ultra%20Premium-39FF14?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Programming-C%2FC%2B%2B-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-GenAI-purple?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=vivekbgautam&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
+
+---
+
+## 🏆 **GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vivekbgautam&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+## 🚀 **Featured Projects**
+
+### 🔥 Custom Virtual File System (VFS)
+- Built using **C-style programming in C++**
+- Simulates **file operations & inode architecture**
+- Inspired by **UNIX file system**
+
+### ⚙️ Generalized Data Structure Library
+- Reusable **C++ DSA library**
+- Efficient implementation of core structures
+
+### 🤖 Python Automation
+- Scripts for **automation, file handling & system tasks**
 
 ---
 
@@ -69,35 +89,30 @@ I build **high-performance systems**, develop **automation tools**, and explore 
   <img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
 
-<p align="left">
-  🔹 Machine Learning  
-  🔹 Deep Learning  
-  🔹 Artificial Intelligence (AI)  
-  🔹 Generative AI (GenAI)  
-  🔹 Large Language Models (LLMs)  
-</p>
+- Machine Learning  
+- Deep Learning  
+- Artificial Intelligence  
+- Generative AI (GenAI)  
+- Large Language Models (LLMs)  
 
 ---
 
 ## ⚡ **Python Automation**
-- 🔧 Task Automation Scripts  
-- 📂 File Handling Automation  
-- ⚙️ System Utilities  
-- 📊 Data Processing Scripts  
+- Task Automation Scripts  
+- File Handling Automation  
+- System Utilities  
+- Data Processing  
 
 ---
 
 ## 🧠 **Core Expertise**
-<p align="left">
-  🧩 <strong>Data Structures & Algorithms</strong><br>
-  ⚙️ <strong>System Programming (C/C++)</strong><br>
-  🧠 <strong>Memory Management</strong><br>
-  🧪 <strong>Low-Level System Design</strong><br>
-  🖥️ <strong>Backend Development (Java)</strong><br>
-  🤖 <strong>AI / ML Fundamentals</strong><br>
-  🚀 <strong>Problem Solving</strong><br>
-  📈 <strong>Optimization Techniques</strong>
-</p>
+- Data Structures & Algorithms  
+- System Programming (C/C++)  
+- Memory Management  
+- Backend Development (Java)  
+- AI / ML Fundamentals  
+- Problem Solving  
+- Optimization  
 
 ---
 
@@ -125,14 +140,6 @@ I build **high-performance systems**, develop **automation tools**, and explore 
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
-
----
-
-## 🌌 **Featured Project**
-🔥 **Custom Virtual File System (VFS)**  
-- Built using C-style programming in C++  
-- Simulates file operations, inode structure & memory management  
-- Inspired by UNIX architecture  
 
 ---
 
