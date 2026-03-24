@@ -1,7 +1,7 @@
 # 🚀🌌 **Hi I Am Vivek Bhauraj Gautam**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=9B5DE5&center=true&vCenter=true&width=1000&lines=🔥+Full+Stack+Developer+%7C+Engineer+%7C+Creator;Welcome+to+My+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=9B5DE5&center=true&vCenter=true&width=1000&lines=🔥+Software+Developer+%7C+System+Programmer+%7C+Creator;C%2FC%2B%2B+%7C+Java+%7C+Python+%7C+AI+Enthusiast;Welcome+to+My+GitHub+Profile" />
 </p>
 
 <p align="center"> 
@@ -12,10 +12,30 @@
 
 ### `Innovator • Developer • System Thinker`
 
-I build **high-performance applications**, create **efficient logic**, and craft **beautiful engineering experiences**.
+I build **high-performance systems**, develop **automation tools**, and explore **AI/ML technologies** to solve real-world problems.
 
-📧 Email → **vivekbgautam@gmail.com**  
-🐙 GitHub → **http://github.com/vivekbgautam**
+---
+
+## 🌐 **Connect With Me**
+<p align="center">
+  <a href="mailto:vivekbgautam@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/vivekbgautam">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vivek-b-gautam/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+📧 Email: vivekbgautam@gmail.com <br>
+🐙 GitHub: https://github.com/vivekbgautam <br>
+🔗 LinkedIn: https://www.linkedin.com/in/vivek-b-gautam/
+</p>
 
 ---
 
@@ -23,7 +43,8 @@ I build **high-performance applications**, create **efficient logic**, and craft
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-Ultra%20Premium-39FF14?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Code%20Quality-Top%201%25-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Programming-C%2FC%2B%2B-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-GenAI-purple?style=for-the-badge"/>
 </p>
 
 ---
@@ -38,24 +59,49 @@ I build **high-performance applications**, create **efficient logic**, and craft
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=javascript" />
 </p>
-<br/>
 
 ---
 
-### 🧠 **Core Expertise**
+## 🤖 **AI / ML Stack**
 <p align="left">
-  🧩 <strong>DSA</strong><br>
-  ⚙️ <strong>System Programming</strong><br>
-  🧠 <strong>Memory Management</strong><br>
-  🧪 <strong>Compiler Logic</strong><br>
-  🖥️ <strong>Backend Engineering</strong><br>
-  🚀 <strong>Problem Solving</strong><br>
-  📈 <strong>Optimization</strong>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
+
+<p align="left">
+  🔹 Machine Learning  
+  🔹 Deep Learning  
+  🔹 Artificial Intelligence (AI)  
+  🔹 Generative AI (GenAI)  
+  🔹 Large Language Models (LLMs)  
 </p>
 
 ---
 
-### ⚒️ **Tools & Platforms**
+## ⚡ **Python Automation**
+- 🔧 Task Automation Scripts  
+- 📂 File Handling Automation  
+- ⚙️ System Utilities  
+- 📊 Data Processing Scripts  
+
+---
+
+## 🧠 **Core Expertise**
+<p align="left">
+  🧩 <strong>Data Structures & Algorithms</strong><br>
+  ⚙️ <strong>System Programming (C/C++)</strong><br>
+  🧠 <strong>Memory Management</strong><br>
+  🧪 <strong>Low-Level System Design</strong><br>
+  🖥️ <strong>Backend Development (Java)</strong><br>
+  🤖 <strong>AI / ML Fundamentals</strong><br>
+  🚀 <strong>Problem Solving</strong><br>
+  📈 <strong>Optimization Techniques</strong>
+</p>
+
+---
+
+## ⚒️ **Tools & Platforms**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
@@ -67,18 +113,26 @@ I build **high-performance applications**, create **efficient logic**, and craft
 
 ---
 
-### 🔧 **Frameworks**
+## 🔧 **Frameworks**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 ---
 
-### 🗄️ **Databases**
+## 🗄️ **Databases**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
+
+---
+
+## 🌌 **Featured Project**
+🔥 **Custom Virtual File System (VFS)**  
+- Built using C-style programming in C++  
+- Simulates file operations, inode structure & memory management  
+- Inspired by UNIX architecture  
 
 ---
 
@@ -102,8 +156,9 @@ I build **high-performance applications**, create **efficient logic**, and craft
 ---
 
 ## 🤝 **Let’s Connect**
-📧 Email → **vivekbgautam@gmail.com**  
-🐙 GitHub → **http://github.com/vivekbgautam**
+📧 Email → vivekbgautam@gmail.com  
+🐙 GitHub → https://github.com/vivekbgautam  
+🔗 LinkedIn → https://www.linkedin.com/in/vivek-b-gautam/
 
 ---
 
