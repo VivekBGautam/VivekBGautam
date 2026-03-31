@@ -19,26 +19,25 @@ I build **high-performance systems**, develop **automation tools**, and explore 
 # 💼 About Me
 
 * 🎯 Focused on **System Programming & Backend Development**
-* 🧠 Strong in **Data Structures & Problem Solving**
-* ⚡ Passionate about **AI, Automation & Scalable Systems**
-* 🚀 Goal: Become a **FAANG-level Software Engineer**
+* 🧠 Strong in **Data Structures & Algorithms**
+* ⚡ Passionate about **Automation & AI Systems**
+* 🚀 Goal: Become a **Top Software Engineer (Product-Based Company)**
 
 ---
 
 # 🧠 Currently Learning
 
 * 📚 Advanced **Data Structures & Algorithms**
-* ☕ **Spring Boot & Backend Systems**
+* ☕ **Spring Boot & Backend Development**
 * 🤖 **Machine Learning & Deep Learning**
-* 🧩 System Design Fundamentals
+* 🧩 System Design
 
 ---
 
 # 🏆 Coding Profiles
 
-* 💻 GitHub: https://github.com/vivekbgautam
+* 💻 GitHub: https://github.com/VivekBGautam
 * 🔗 LinkedIn: https://www.linkedin.com/in/vivek-b-gautam/
-* 🧠 (Add LeetCode / CodeChef / HackerRank here)
 
 ---
 
@@ -49,7 +48,7 @@ I build **high-performance systems**, develop **automation tools**, and explore 
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/vivekbgautam">
+  <a href="https://github.com/VivekBGautam">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
   &nbsp;&nbsp;
@@ -124,12 +123,12 @@ I build **high-performance systems**, develop **automation tools**, and explore 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekbgautam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="170px"/>
-  <img src="https://streak-stats.demolab.com?user=vivekbgautam&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VivekBGautam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="170px"/>
+  <img src="https://streak-stats.demolab.com?user=VivekBGautam&theme=tokyonight&hide_border=true" height="170px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbgautam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekBGautam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150px"/>
 </p>
 
 ---
@@ -137,7 +136,7 @@ I build **high-performance systems**, develop **automation tools**, and explore 
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbgautam&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekBGautam&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -145,24 +144,24 @@ I build **high-performance systems**, develop **automation tools**, and explore 
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vivekbgautam/vivekbgautam/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/VivekBGautam/VivekBGautam/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 # 🎯 Goals 2026
 
-* ✅ Master Data Structures & Algorithms
-* ✅ Build 3+ Production-Level Projects
+* ✅ Master DSA
+* ✅ Build Production-Level Projects
 * 🚀 Crack Product-Based Company
-* 🤖 Build Real-World AI Applications
+* 🤖 Build Real AI Applications
 
 ---
 
 # 🤝 Let’s Connect
 
 📧 Email → [vivekbgautam@gmail.com](mailto:vivekbgautam@gmail.com)
-🐙 GitHub → https://github.com/vivekbgautam
+🐙 GitHub → https://github.com/VivekBGautam
 🔗 LinkedIn → https://www.linkedin.com/in/vivek-b-gautam/
 
 ---
