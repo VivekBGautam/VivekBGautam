@@ -93,6 +93,8 @@ I don’t just write code — I design **efficient, scalable systems**.
 
 ---
 
+<!--
+
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -100,6 +102,8 @@ I don’t just write code — I design **efficient, scalable systems**.
 </p>
 
 ---
+
+-->
 
 ## 🐍 Contribution Snake
 
