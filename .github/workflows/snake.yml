@@ -15,8 +15,8 @@ jobs:
           github_user_name: VivekBGautam
 
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#00FF41&color_dots=#161b22,#1f2d1f,#2f6f3e,#00c853,#39FF14
-            dist/github-contribution-grid-snake.svg?color_snake=#008f11&color_dots=#ebedf0,#d6e685,#8cc665,#44a340,#1e6823
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#9B5DE5&color_dots=#161b22,#1f2d1f,#2f6f3e,#00c853,#39FF14
+            dist/github-contribution-grid-snake.svg?color_snake=#9B5DE5&color_dots=#ebedf0,#d6e685,#8cc665,#44a340,#1e6823
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
